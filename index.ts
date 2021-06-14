@@ -1,5 +1,5 @@
 // crear las clases Edificio, Piso y Departamento aquí
-
+// nuevooo contenido
 class Departamento {
   nombre: string  // 
   constructor(nombre:string){
